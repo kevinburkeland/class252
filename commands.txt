@@ -1,0 +1,14 @@
+    1  git clone https://github.com/kevinburkeland/class252.git
+    2  cd class252/
+    3  git status
+    4  git add class.txt
+    5  git status
+    6  clear
+    7  git commit -m "created class.txt"
+    8  git commit -m "added content"
+    9  git add class.txt
+   10  git commit -m "added content"
+   11  clear
+   12  git push
+   13  clear
+   14  history > commands.txt
